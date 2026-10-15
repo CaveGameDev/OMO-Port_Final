@@ -11,3 +11,9 @@ Currently Working On:
 -Wii U build
 
 -3DS if possible
+
+
+<!-- 
+### SEARCH TAGS
+omori-web-port, omori-browser, omori-html5, omori-webgl, omori-online, play-omori-online, omori-unblocked, omori-js, omori-rpg-maker, omori-modded, omori-mods, omori-modding, omori-oneloader, chromori, omori-sandbox, omori-emulator, omori-pc-port, rpg-maker-mv, web-rpg-maker, html5-games 
+-->
