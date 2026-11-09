@@ -12,6 +12,8 @@ Currently Working On:
 
 -3DS if possible
 
+Playable link: [Here](https://om-low.pages.dev/)
+
 
 <!-- 
 ### SEARCH TAGS
