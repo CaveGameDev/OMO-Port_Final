@@ -12,7 +12,7 @@ Currently Working On:
 
 -3DS if possible
 
-Playable link: [Here](https://om-low.pages.dev/)
+Playable link: [Here](https://omor-1.on.websim.com/)
 
 
 <!-- 
